@@ -1,0 +1,32 @@
+nav {
+    background-color: aqua;
+}
+
+ul {
+    display: flex;
+    justify-content: space-between;
+}
+.portafolio_section {
+    text-align: center;
+}
+h1{
+    color: #000;
+    font-size: 2em;
+    font-weight: 700;
+    margin: 0;
+    padding: 0;
+}
+.nombre{
+    display: flex;
+    align-items: center;
+}
+
+.nombre__minombre{
+    color: blueviolet;
+}
+
+/* .mistrabajos {
+    display: flex;
+} */
+
+/* CRTL + K + C */
